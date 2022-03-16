@@ -1,0 +1,7 @@
+*.dproj.local
+*.identcache
+*.stat
+Win32/
+Win64/
+files/
+__history/
